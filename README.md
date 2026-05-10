@@ -1,0 +1,2 @@
+# Intelligent-plant-disease-detection-and-automated-pesticide-spraying-system-for-agriculture-usingCNN
+AI-based plant leaf disease detection system using deep learning, TensorFlow, and OpenCV for accurate crop health analysis. Detects bacterial spot, septoria leaf spot, spider mites, yellow leaf curl virus, and healthy leaves. Includes ESP32-based smart irrigation, relay automation, OLED display, camera monitoring, and IoT connectivity.
